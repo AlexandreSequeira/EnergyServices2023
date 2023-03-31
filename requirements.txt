@@ -27,3 +27,4 @@ webencodings==0.5.1
 Werkzeug==2.2.3
 wincertstore==0.2
 xgboost==1.7.4
+gunicorn
