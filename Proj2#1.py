@@ -370,7 +370,7 @@ def update_graph2(value):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server()
 
 
 
